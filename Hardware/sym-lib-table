@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Project Babel Symbols") (type "KiCad") (uri "${KIPRJMOD}/Project Babel Symbol Library") (options "") (descr ""))
+)

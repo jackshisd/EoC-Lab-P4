@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Project Babel Footprints") (type "KiCad") (uri "${KIPRJMOD}/Project Babel Footprint Library") (options "") (descr ""))
+)
