@@ -889,7 +889,7 @@
 	)
 	(symbol
 		(lib_id "Project Babel Symbols:ESP32-P4-ETH")
-		(at 132.08 106.68 0)
+		(at 125.73 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -900,7 +900,7 @@
 		(fields_autoplaced yes)
 		(uuid "f7a025e6-d67b-49f2-98f7-b9f4743cbf19")
 		(property "Reference" "U1"
-			(at 132.08 71.12 0)
+			(at 125.73 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -910,7 +910,7 @@
 			)
 		)
 		(property "Value" "ESP32-P4-ETH"
-			(at 132.08 73.66 0)
+			(at 125.73 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -920,7 +920,7 @@
 			)
 		)
 		(property "Footprint" "Project Babel Footprints:MODULE_ESP32-P4-ETH"
-			(at 132.08 106.68 0)
+			(at 125.73 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -932,7 +932,7 @@
 			)
 		)
 		(property "Datasheet" "https://snapeda.s3.us-east-1.amazonaws.com/datasheet/ESP32-P4-ETH.pdf"
-			(at 132.08 106.68 0)
+			(at 125.73 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -944,7 +944,7 @@
 			)
 		)
 		(property "Description" "High-Performance Development Board, Based On ESP32-P4, With 100 Mbps RJ45 Ethernet Port"
-			(at 132.08 106.68 0)
+			(at 125.73 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -956,7 +956,7 @@
 			)
 		)
 		(property "DATASHEET_URL" "https://snapeda.s3.us-east-1.amazonaws.com/datasheet/ESP32-P4-ETH.pdf"
-			(at 132.08 106.68 0)
+			(at 125.73 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -968,7 +968,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Waveshare Electronics"
-			(at 132.08 106.68 0)
+			(at 125.73 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -980,7 +980,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "18.8 mm"
-			(at 132.08 106.68 0)
+			(at 125.73 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -992,7 +992,7 @@
 			)
 		)
 		(property "MPN" "ESP32-P4-ETH"
-			(at 132.08 106.68 0)
+			(at 125.73 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1004,7 +1004,7 @@
 			)
 		)
 		(property "SOURCE_URL" "https://www.snapeda.com/parts/ESP32-P4-ETH/Waveshare+Electronics/view-part/"
-			(at 132.08 106.68 0)
+			(at 125.73 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1016,7 +1016,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 132.08 106.68 0)
+			(at 125.73 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1152,6 +1152,92 @@
 				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133"
 					(reference "U1")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 15.24)
+		(size 26.67 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2bd3f121-3520-47bc-9877-57792cb0b461")
+		(property "Sheetname" "Power"
+			(at 15.24 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power/PowerElectronics.kicad_sch"
+			(at 15.24 31.0646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_DET" input
+			(at 41.91 19.05 0)
+			(uuid "3c7f0f15-63dc-44dc-b4ac-94cbd6cfd363")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PG_3V3" input
+			(at 41.91 21.59 0)
+			(uuid "78527bcd-c14c-49b8-abd4-fa38162cc644")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VBAT_SENSE_EN" input
+			(at 41.91 24.13 0)
+			(uuid "e1b0a558-8a65-40ce-ac48-97f46ea96b42")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VBAT_SENSE" input
+			(at 41.91 26.67 0)
+			(uuid "1a5a008b-6935-433e-8f40-08a12c855611")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133"
+					(page "2")
 				)
 			)
 		)

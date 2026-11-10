@@ -661,13 +661,17 @@
         "uuid": "c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133"
       }
     ],
-    "used_designators": "U1",
+    "used_designators": "600Ω@100MHz1,U1-5,1V1,BATT1,A2V1,D1-3,BT1,C1-11,F1,J1,L1,Q1-3,R1-18,SW1,TP1-4,VIN1,#PWR56,#PWR68-73",
     "variants": []
   },
   "sheets": [
     [
       "c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133",
       "project_babel"
+    ],
+    [
+      "2bd3f121-3520-47bc-9877-57792cb0b461",
+      "Power"
     ]
   ],
   "text_variables": {},
