@@ -4643,6 +4643,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "R12")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4718,6 +4724,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR069")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR069")
 					(unit 1)
 				)
@@ -4801,6 +4813,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "R21")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4876,6 +4894,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR033")
 					(unit 1)
 				)
@@ -4959,6 +4983,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5032,6 +5062,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR066")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR066")
 					(unit 1)
 				)
@@ -5114,6 +5150,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#FLG02")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5189,6 +5231,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR050")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR050")
 					(unit 1)
 				)
@@ -5275,6 +5323,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "R16")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5349,6 +5403,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR047")
 					(unit 1)
 				)
@@ -5432,6 +5492,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR053")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5506,6 +5572,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR064")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR064")
 					(unit 1)
 				)
@@ -5589,6 +5661,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR049")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5664,6 +5742,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR024")
 					(unit 1)
 				)
@@ -5747,6 +5831,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR085")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5822,6 +5912,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR051")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR051")
 					(unit 1)
 				)
@@ -5952,6 +6048,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "J6")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6032,6 +6134,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "R24")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6108,6 +6216,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "R23")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "R23")
 					(unit 1)
 				)
@@ -6193,6 +6307,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "C6")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6273,6 +6393,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR073")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6346,6 +6472,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR055")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR055")
 					(unit 1)
 				)
@@ -6429,6 +6561,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "TP9")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6504,6 +6642,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR067")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR067")
 					(unit 1)
 				)
@@ -6587,6 +6731,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "R15")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6666,6 +6816,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR021")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6741,6 +6897,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR036")
 					(unit 1)
 				)
@@ -6826,6 +6988,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "L1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6900,6 +7068,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#FLG04")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#FLG04")
 					(unit 1)
 				)
@@ -6980,6 +7154,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "BATT1")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "BATT1")
 					(unit 1)
 				)
@@ -7065,6 +7245,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "C11")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7138,6 +7324,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR022")
 					(unit 1)
 				)
@@ -7221,6 +7413,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "TP7")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7300,6 +7498,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "VIN1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7375,6 +7579,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR045")
 					(unit 1)
 				)
@@ -7459,6 +7669,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "R29")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7535,6 +7751,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR071")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR071")
 					(unit 1)
 				)
@@ -7621,6 +7843,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "D5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7696,6 +7924,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR070")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR070")
 					(unit 1)
 				)
@@ -7812,6 +8046,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "BT1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7892,6 +8132,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR072")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7967,6 +8213,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR058")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR058")
 					(unit 1)
 				)
@@ -8052,6 +8304,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "R20")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8127,6 +8385,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "TP4")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "TP4")
 					(unit 1)
 				)
@@ -8208,6 +8472,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "C12")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "C12")
 					(unit 1)
 				)
@@ -8300,6 +8570,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8375,6 +8651,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "R27")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "R27")
 					(unit 1)
 				)
@@ -8459,6 +8741,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "R25")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8534,6 +8822,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "R17")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "R17")
 					(unit 1)
 				)
@@ -8617,6 +8911,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR063")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8696,6 +8996,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR059")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8769,6 +9075,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR056")
 					(unit 1)
 				)
@@ -8852,6 +9164,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "R26")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8927,6 +9245,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR020")
 					(unit 1)
 				)
@@ -9021,6 +9345,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "D3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9096,6 +9426,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR034")
 					(unit 1)
 				)
@@ -9181,6 +9517,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "C5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9256,6 +9598,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR038")
 					(unit 1)
 				)
@@ -9339,6 +9687,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR054")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9418,6 +9772,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR052")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9493,6 +9853,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "R19")
 					(unit 1)
 				)
@@ -9599,6 +9965,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "U3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9674,6 +10046,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR046")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR046")
 					(unit 1)
 				)
@@ -9755,6 +10133,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9829,6 +10213,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#FLG03")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#FLG03")
 					(unit 1)
 				)
@@ -9912,6 +10302,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9985,6 +10381,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR037")
 					(unit 1)
 				)
@@ -10069,6 +10471,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "SW1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10144,6 +10552,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "R18")
 					(unit 1)
 				)
@@ -10227,6 +10641,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR048")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10302,6 +10722,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "R14")
 					(unit 1)
 				)
@@ -10394,6 +10820,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10469,6 +10901,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "R13")
 					(unit 1)
 				)
@@ -10564,6 +11002,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "D2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10638,6 +11082,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#FLG01")
 					(unit 1)
 				)
@@ -10721,6 +11171,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10798,6 +11254,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "C7")
 					(unit 1)
 				)
@@ -10906,6 +11368,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "U2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10979,6 +11447,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR065")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR065")
 					(unit 1)
 				)
@@ -11064,6 +11538,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "C8")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11144,6 +11624,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "R22")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11219,6 +11705,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR041")
 					(unit 1)
 				)
@@ -11309,6 +11801,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11385,6 +11883,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "F1")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "F1")
 					(unit 1)
 				)
@@ -11468,6 +11972,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11542,6 +12052,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "#PWR068")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "#PWR068")
 					(unit 1)
 				)
@@ -11627,6 +12143,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "C10")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11703,6 +12225,12 @@
 		(instances
 			(project "Power"
 				(path "/49d73ec7-4fe8-4ddd-940f-0e266350d39b"
+					(reference "R28")
+					(unit 1)
+				)
+			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
 					(reference "R28")
 					(unit 1)
 				)
@@ -11788,12 +12316,12 @@
 					(unit 1)
 				)
 			)
+			(project "project_babel"
+				(path "/c7a9f223-cd5d-4f96-8bd5-5fc78ebd4133/2bd3f121-3520-47bc-9877-57792cb0b461"
+					(reference "C13")
+					(unit 1)
+				)
+			)
 		)
 	)
-	(sheet_instances
-		(path "/"
-			(page "1")
-		)
-	)
-	(embedded_fonts no)
 )
