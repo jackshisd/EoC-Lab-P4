@@ -1,0 +1,295 @@
+(footprint "Adafruit_I2S_MEMS_Mic_Breakout_1x06_P2.54mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Adafruit I2S MEMS microphone breakout (PID 3421 SPH0645LM4H, drop-in PID 6049 ICS-43434) soldered on 1x6 2.54mm pins. Origin = pin 1 (3V). Breakout 16.51x12.70mm (Adafruit EagleCAD). Mic is BOTTOM-ported: acoustic port is 6.35mm along the row, 5.28mm off the pin row; a 1.5mm NPTH sound hole is placed under it.")
+	(tags "Adafruit I2S MEMS microphone SPH0645 ICS-43434 breakout")
+	(property "Reference" "REF**"
+		(at 0 -11.4 0)
+		(layer "F.SilkS")
+		(uuid "552dadb8-0903-5f63-bbcb-bed15180788a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Adafruit_I2S_MEMS_Mic_Breakout_1x06_P2.54mm"
+		(at 0 3.9 0)
+		(layer "F.Fab")
+		(uuid "d4428f48-3851-58eb-8de9-7f484f2c8b9b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ce8ef87d-4af5-5fcd-a29a-836733d0b87e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.191)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "85538534-529e-5026-b6e9-cb7f086032fa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.191)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.015 -10.27)
+		(end -2.015 2.65)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "79cddd2e-bb58-5c2b-a217-86db6af6fd06")
+	)
+	(fp_line
+		(start -2.015 -10.27)
+		(end 14.715 -10.27)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b8e4cb79-cdfa-5065-979c-3ffb7abe197e")
+	)
+	(fp_line
+		(start -2.015 2.65)
+		(end 14.715 2.65)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f5e94522-88f0-50b3-9840-174b3e4c4fd5")
+	)
+	(fp_line
+		(start 14.715 -10.27)
+		(end 14.715 2.65)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fd28bf62-7868-5dc2-be27-0eea96d37a7b")
+	)
+	(fp_circle
+		(center 6.35 -5.282)
+		(end 7.4 -5.282)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "a2b6a9ba-6f49-5322-ae0b-ce56f0d2e9ca")
+	)
+	(fp_rect
+		(start -2.155 -10.41)
+		(end 14.855 2.79)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "04878475-362a-5587-aa5d-08085e168d6a")
+	)
+	(fp_rect
+		(start -1.905 -10.16)
+		(end 14.605 2.54)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "d715a3a6-3752-5460-8242-3ea4ba2719c5")
+	)
+	(fp_circle
+		(center 0.635 -7.62)
+		(end 1.885 -7.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "90e5646c-319b-5d57-9d23-b3eb3cdd8cc9")
+	)
+	(fp_circle
+		(center 12.065 -7.62)
+		(end 13.315 -7.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "4db0acdf-3e53-56e1-ba77-5a2d527684ac")
+	)
+	(fp_text user "3V"
+		(at 0 1.95 0)
+		(layer "F.Fab")
+		(uuid "b8e564bc-27b6-5787-a93e-009366ef7447")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(fp_text user "GND"
+		(at 2.54 1.95 0)
+		(layer "F.Fab")
+		(uuid "bd0d062f-9545-59f5-8eb0-633b70e4bb3c")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(fp_text user "BCLK"
+		(at 5.08 1.95 0)
+		(layer "F.Fab")
+		(uuid "84585eb5-9f96-5dcf-b6b7-25505ff2e55c")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 6.35 -8.5 0)
+		(layer "F.Fab")
+		(uuid "4036a27d-bf40-5b1c-bdfd-aa5e826cb084")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(fp_text user "MIC PORT (bottom)"
+		(at 6.35 -3.6 0)
+		(layer "F.Fab")
+		(uuid "dd1092ec-22c7-5c8b-96c5-efd7a0cd904c")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(fp_text user "DOUT"
+		(at 7.62 1.95 0)
+		(layer "F.Fab")
+		(uuid "8ce016c3-22bd-5252-9ccd-fdfe6f8da007")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(fp_text user "LRCL"
+		(at 10.16 1.95 0)
+		(layer "F.Fab")
+		(uuid "f468a1c6-36aa-58f5-a7db-98e9c523be33")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(fp_text user "SEL"
+		(at 12.7 1.95 0)
+		(layer "F.Fab")
+		(uuid "21ee8c70-8d02-53f8-ac95-e2117059bcf8")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 6.35 -5.282)
+		(size 1.5 1.5)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "47560106-fd33-5912-a580-6ba63c0cdbaf")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3ba9a603-8da5-5658-95ac-4e790f149b86")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fd751639-4b01-5819-90d4-a759cfe743e3")
+	)
+	(pad "3" thru_hole circle
+		(at 5.08 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "971c1e35-c20a-5a61-91b4-55c09406c1b5")
+	)
+	(pad "4" thru_hole circle
+		(at 7.62 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d1f97549-335a-55c7-8aa4-92864b6bc00c")
+	)
+	(pad "5" thru_hole circle
+		(at 10.16 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "395025ca-1275-5e32-9620-bbe8b17537e2")
+	)
+	(pad "6" thru_hole circle
+		(at 12.7 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "94adc478-66b8-5593-95cb-84f14b54cca7")
+	)
+	(embedded_fonts no)
+)
