@@ -4178,6 +4178,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 58.42) (xy 177.8 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75526d5d-77ab-4ded-86bc-226293694f02")
+	)
+	(wire
+		(pts
 			(xy 229.87 132.08) (xy 240.03 132.08)
 		)
 		(stroke
@@ -4526,6 +4536,28 @@
 		)
 		(uuid "fb63d176-d437-4e5d-ad0a-14cec78db32f")
 	)
+	(hierarchical_label "USB_DP"
+		(shape input)
+		(at 187.96 39.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3d75a2bd-244d-4bc1-930b-6ba093c3f453")
+	)
+	(hierarchical_label "5V_USB"
+		(shape input)
+		(at 171.45 58.42 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a65adfaa-86d7-448b-81c3-ae10f0453ef7")
+	)
 	(hierarchical_label "VBAT_SENSE"
 		(shape input)
 		(at 240.03 149.86 0)
@@ -4558,6 +4590,17 @@
 			(justify left)
 		)
 		(uuid "d2468f67-54f7-4473-a70d-e1cd004bff2f")
+	)
+	(hierarchical_label "USB_DM"
+		(shape input)
+		(at 187.96 44.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d3969441-ef4a-484e-8db0-61a6d0d00e50")
 	)
 	(hierarchical_label "VBAT_SENSE_EN"
 		(shape input)
@@ -6407,7 +6450,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 177.8 58.42 90)
+		(at 170.18 58.42 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6417,7 +6460,7 @@
 		(dnp no)
 		(uuid "4f043e13-fcda-4ba2-b559-ffe28286520a")
 		(property "Reference" "#PWR055"
-			(at 181.61 58.42 0)
+			(at 173.99 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6428,7 +6471,7 @@
 			)
 		)
 		(property "Value" "+5V_USB"
-			(at 169.164 58.42 90)
+			(at 161.544 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6438,7 +6481,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 177.8 58.42 0)
+			(at 170.18 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6449,7 +6492,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 58.42 0)
+			(at 170.18 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6460,7 +6503,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 177.8 58.42 0)
+			(at 170.18 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
